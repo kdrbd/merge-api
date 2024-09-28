@@ -1,0 +1,13 @@
+{
+    "name": "merger/api",
+    "description": "PHP Merge API",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Core\\": "Core/"
+        }
+    },
+    "minimum-stability": "beta",
+    "require": {}
+}
